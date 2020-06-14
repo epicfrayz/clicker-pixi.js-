@@ -1,0 +1,48 @@
+{"frames": {
+
+"background.png":
+{
+	"frame": {"x":0,"y":0,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"coint.png":
+{
+	"frame": {"x":0,"y":512,"w":32,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":35},
+	"sourceSize": {"w":32,"h":35},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"cookie.png":
+{
+	"frame": {"x":32,"y":512,"w":128,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":128,"h":128},
+	"sourceSize": {"w":128,"h":128},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"score.png":
+{
+	"frame": {"x":160,"y":512,"w":116,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":116,"h":43},
+	"sourceSize": {"w":116,"h":43},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "atlas.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":640},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7eae407e9f01a958046c5743379e7a39:0803c2b86667abb829bdfbe4ed6706f5:100533ee33087a3e10292b753a14bce8$"
+}
+}
